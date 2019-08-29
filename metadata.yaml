@@ -1,0 +1,28 @@
+_repo: Lea-dramma-in-tre-atti-in-prosa-con-un-prologo-in-versi_60160
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cavallotti, Felice
+    alias: Cavallotti, Felice Carlo Emanuele
+    birthdate: 1842
+    deathdate: 1898
+    gutenberg_agent_id: '50823'
+    url: http://www.gutenberg.org/2009/agents/50823
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Felice_Cavallotti
+    - https://it.wikipedia.org/wiki/Felice_Cavallotti
+description: ''
+gutenberg_issued: '2019-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60160'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian drama -- 19th century'
+- GITenberg
+title: 'Lea: dramma in tre atti in prosa con un prologo in versi'
+url: http://www.gutenberg.org/ebooks/60160
